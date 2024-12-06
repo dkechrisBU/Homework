@@ -1,0 +1,28 @@
+C:\Users\Demetrios\AppData\Local\Programs\Python\Python311\python.exe "C:\Users\Demetrios\Downloads\ME570 homework1 python\me570_hw1.py" 
+# 1
+# 2
+('Oranges', 4.5)
+('Apples', 1)
+('Bananas', 2.7)
+# 3
+('Apples', 1)
+('Oranges', 4.5)
+('Bananas', 2.7)
+# 4
+('Oranges', 4.5)
+('Bananas', 2.7)
+('Cantaloupe', 3)
+# 5
+False
+True
+False
+('Oranges', 4.5)
+('Bananas', 2.7)
+('Cantaloupe', 3)
+# 6
+('Bananas', 2.7)
+('Cantaloupe', 3)
+('Oranges', 4.5)
+(None, None)
+
+Process finished with exit code 0

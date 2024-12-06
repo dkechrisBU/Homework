@@ -1,0 +1,2 @@
+Each part only takes a few seconds to run. 2.5a-d take about 5 seconds total to run on my laptop. 
+I have created a worspace that has my initial data structures, which I've included in the file. This workspace needs to be loaded before the code can run .correctly
